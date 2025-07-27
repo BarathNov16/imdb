@@ -1,0 +1,254 @@
+[
+    {
+        "title": "Mad Max: Fury Road",
+        "rating": 8.1,
+        "genre": "Action, Adventure, Sci-Fi",
+        "year": 2015
+    },
+    {
+        "title": "The Martian",
+        "rating": 8.0,
+        "genre": "Adventure, Drama, Sci-Fi",
+        "year": 2015
+    },
+    {
+        "title": "The Revenant",
+        "rating": 8.0,
+        "genre": "Adventure, Drama, Western",
+        "year": 2015
+    },
+    {
+        "title": "Spotlight",
+        "rating": 8.1,
+        "genre": "Biography, Crime, Drama",
+        "year": 2015
+    },
+    {
+        "title": "Inside Out",
+        "rating": 8.1,
+        "genre": "Animation, Adventure, Comedy",
+        "year": 2015
+    },
+    {
+        "title": "The Handmaiden",
+        "rating": 8.1,
+        "genre": "Drama, Romance, Thriller",
+        "year": 2016
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "rating": 8.1,
+        "genre": "Biography, Drama, History",
+        "year": 2016
+    },
+    {
+        "title": "La La Land",
+        "rating": 8.0,
+        "genre": "Comedy, Drama, Music",
+        "year": 2016
+    },
+    {
+        "title": "Zootopia",
+        "rating": 8.0,
+        "genre": "Animation, Action, Adventure",
+        "year": 2016
+    },
+    {
+        "title": "Deadpool",
+        "rating": 8.0,
+        "genre": "Action, Comedy, Sci-Fi",
+        "year": 2016
+    },
+    {
+        "title": "Your Name.",
+        "rating": 8.4,
+        "genre": "Animation, Drama, Fantasy",
+        "year": 2016
+    },
+    {
+        "title": "Blade Runner 2049",
+        "rating": 8.0,
+        "genre": "Action, Drama, Mystery",
+        "year": 2017
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "rating": 8.1,
+        "genre": "Comedy, Crime, Drama",
+        "year": 2017
+    },
+    {
+        "title": "Coco",
+        "rating": 8.4,
+        "genre": "Animation, Adventure, Drama",
+        "year": 2017
+    },
+    {
+        "title": "Logan",
+        "rating": 8.1,
+        "genre": "Action, Drama, Sci-Fi",
+        "year": 2017
+    },
+    {
+        "title": "Green Book",
+        "rating": 8.2,
+        "genre": "Biography, Comedy, Drama",
+        "year": 2018
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "rating": 8.4,
+        "genre": "Action, Adventure, Sci-Fi",
+        "year": 2018
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "rating": 8.4,
+        "genre": "Animation, Action, Adventure",
+        "year": 2018
+    },
+    {
+        "title": "Capernaum",
+        "rating": 8.4,
+        "genre": "Drama",
+        "year": 2018
+    },
+    {
+        "title": "Parasite",
+        "rating": 8.5,
+        "genre": "Drama, Thriller",
+        "year": 2019
+    },
+    {
+        "title": "Ford v Ferrari",
+        "rating": 8.1,
+        "genre": "Action, Biography, Drama",
+        "year": 2019
+    },
+    {
+        "title": "Avengers: Endgame",
+        "rating": 8.4,
+        "genre": "Action, Adventure, Sci-Fi",
+        "year": 2019
+    },
+    {
+        "title": "Joker",
+        "rating": 8.3,
+        "genre": "Crime, Drama, Thriller",
+        "year": 2019
+    },
+    {
+        "title": "1917",
+        "rating": 8.2,
+        "genre": "Action, Drama, War",
+        "year": 2019
+    },
+    {
+        "title": "Aladdin",
+        "rating": 8.0,
+        "genre": "Animation, Adventure, Comedy",
+        "year": 2019
+    },
+    {
+        "title": "Portrait of a Lady on Fire",
+        "rating": 8.1,
+        "genre": "Drama, Romance",
+        "year": 2019
+    },
+    {
+        "title": "Hamilton",
+        "rating": 8.3,
+        "genre": "Biography, Drama, History",
+        "year": 2020
+    },
+    {
+        "title": "The Hunt",
+        "rating": 8.3,
+        "genre": "Drama",
+        "year": 2020
+    },
+    {
+        "title": "The Father",
+        "rating": 8.2,
+        "genre": "Drama, Mystery",
+        "year": 2020
+    },
+    {
+        "title": "Soul",
+        "rating": 8.0,
+        "genre": "Animation, Adventure, Comedy",
+        "year": 2020
+    },
+    {
+        "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+        "rating": 8.2,
+        "genre": "Animation, Action, Adventure",
+        "year": 2020
+    },
+    {
+        "title": "Dune: Part One",
+        "rating": 8.0,
+        "genre": "Action, Adventure, Drama",
+        "year": 2021
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "rating": 8.2,
+        "genre": "Action, Adventure, Fantasy",
+        "year": 2021
+    },
+    {
+        "title": "CODA",
+        "rating": 8.0,
+        "genre": "Comedy, Drama, Music",
+        "year": 2021
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "rating": 8.2,
+        "genre": "Action, Drama",
+        "year": 2022
+    },
+    {
+        "title": "Oppenheimer",
+        "rating": 8.3,
+        "genre": "Biography, Drama, History",
+        "year": 2023
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "rating": 8.5,
+        "genre": "Animation, Action, Adventure",
+        "year": 2023
+    },
+    {
+        "title": "12th Fail",
+        "rating": 8.7,
+        "genre": "Biography, Drama",
+        "year": 2023
+    },
+    {
+        "title": "Dune: Part Two",
+        "rating": 8.5,
+        "genre": "Action, Adventure, Drama",
+        "year": 2024
+    },
+    {
+        "title": "The Wild Robot",
+        "rating": 8.2,
+        "genre": "Animation, Sci-Fi",
+        "year": 2024
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "rating": 8.0,
+        "genre": "Action, Comedy, Sci-Fi",
+        "year": 2024
+    },
+    {
+        "title": "I'm Still Here",
+        "rating": 8.6,
+        "genre": "Biography, Drama, History",
+        "year": 2024
+    }
+]
