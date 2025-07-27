@@ -18,7 +18,7 @@ conn.close()
 
 
 conn = psycopg2.connect(dbname='imdb3re', user='barathraj',
-                        password='raj2004', host='localhost', port=5432)
+                        password='password', host='localhost', port=5432)
 cur = conn.cursor()
 
 
