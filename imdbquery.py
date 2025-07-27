@@ -1,12 +1,14 @@
 import psycopg2
 import json
-
+from dotenv import load_dotenv
+load_dotenv()
+password = os.environ.get('DB_PASSWORD')
 print("Starting the script...")
 
 
 try:
     conn = psycopg2.connect(dbname='imdb3re', user='barathraj',
-                            password='raj2004', host='localhost', port=5432)
+                            password='password', host='localhost', port=5432)
     cur = conn.cursor()
     print("Connected to database 'imdb3re' successfully.")
 except Exception as e:
